@@ -1,0 +1,363 @@
+/*!
+ * Start Bootstrap - 4 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+
+}
+
+
+
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+.h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
+    
+   
+    line-height: 1;
+	font-weight: bold;
+	font-size: 40px;
+
+   
+
+
+
+	
+
+
+
+}
+.page-header {
+	color: #AB0A85; 
+	position: relative;
+	top: 30px;
+	text-align: center;
+	margin-bottom: 45px;
+ 
+
+
+  
+	
+	
+
+}
+p {
+	
+
+
+}
+
+.smallheader {
+	color: #0EAB81;
+	font-size: 20px;
+	font-style: italic;
+
+}
+.detailP {
+	color: #4403A5;
+	text-align: center;
+	font-weight: bold; 
+}
+
+.turkeyicon {
+	position: relative;
+  margin-right: 10px;
+  bottom: 5px;
+  float: center;
+  width: 45px;
+  height: 35px;
+  background: #555;
+  border-radius: 5px;
+	border: 2px solid black;
+
+}
+.snowflakeicon {
+	position: relative;
+  margin-right: 10px;
+  bottom: 5px;
+  float: center;
+  width: 45px;
+  height: 35px;
+  background: #555;
+  border-radius: 5px;
+	border: 2px solid black;
+}
+
+.deathlyhallows{
+
+	position: relative;
+  margin-right: 10px;
+  bottom: 5px;
+  float: center;
+  width: 55px;
+  height: 45px;
+  background: #555;
+  border-radius: 5px;
+	border: 2px solid black;
+}
+
+.cat {
+
+	position: relative;
+  margin-right: 1px;
+  bottom: 5px;
+  float: center;
+  width: 55px;
+  height: 45px;
+  background: #555;
+  border-radius: 5px;
+	border: 2px solid black;
+}
+
+.Row
+{
+
+    display: table;
+    width: 100%; /
+    table-layout: fixed;
+    border-spacing: 10px; 
+}
+
+.video1 {
+	position: relative;
+	
+	border:3px solid #050505; 
+	padding:3px; 
+	margin:3px;
+}
+
+.video2 {
+	position: relative;
+	
+	border:3px solid #050505; 
+	padding:3px; 
+	margin:3px;
+}
+
+.video3 {
+	position: relative;
+	
+	border:3px solid #050505; 
+	padding:3px; 
+	margin:3px;
+}
+
+.video4 {
+	position: relative;
+	
+	border:3px solid #050505; 
+	padding:3px; 
+	margin:3px;
+}
+
+.pageheader1 {
+	position: relative;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 30px;
+	font-family: "Tahoma";
+	color: #FEAD32;   
+	font-style: normal;
+
+}
+
+.pageheader2 {
+	position: relative;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 30px;
+	font-family: "Trebuchet";
+	color: #80F235;   
+	font-style: normal;
+
+}
+
+.pageheader3 {
+	position: relative;
+	
+	text-align: center;
+	margin-bottom: 30px;
+	font-family: "Cursive" ;
+	color: #43B3FE;   
+	font-style: italic;
+	background-color: #DFDDDB;
+	border-radius: 5px;
+	padding-right: 2px;
+	border: 3px solid black;
+	
+}
+
+.pageheader4{
+
+position: relative;
+	
+	background-color: #DFDDDB;
+	text-align: center;
+	margin-bottom: 30px;
+	font-family: Times;
+	color: #7B68EE;   
+	font-style: italic;
+	border-radius: 5px;
+	border: 3px solid black;
+
+
+}
+
+.pageheader5{
+
+position: relative;
+	
+	background-color: #FBEAD1;
+	text-align: center;
+	margin-bottom: 30px;
+	font-family: Cursive;
+	color: #F43A65;   
+	font-style: italic;
+	border-radius: 5px;
+	border: 2px solid black;
+	
+}
+
+.pageheader6{
+
+position: relative;
+	
+	background-color: #F4E0A9;
+	text-align: center;
+	margin-bottom: 30px;
+	font-family: Cursive;
+	color: #F43A65;   
+	font-style: italic;
+	border-radius: 5px;
+	border: 2px solid black;
+	
+}
+
+
+
+
+
+.smallheader2 {
+color: #2488C1;
+font-weight: bold;
+	font-size: 20px
+
+}
+
+.smallheader3 {
+	font-family:"Cursive";
+color: #9F76FE;
+font-weight: bold;
+font-style: italic;
+	font-size: 25px;
+	display: inline;
+	text-align: center;
+	background-color: #DFDDDB;
+	border-radius: 5px;
+	border: 3px solid black;
+	display: inline;
+   
+
+}
+
+.smallheader4{
+text-align: center;
+font-family: Times ;
+background-color: #DFDDDB;
+color: #9932CC;
+font-weight: bold;
+font-style: italic;
+font-size: 25px;
+border-radius: 5px;
+border: 2px solid black;
+
+}
+
+.smallheader5{
+text-align: center;
+font-family: Times ;
+background-color:  #FBEAD1;
+color: #1FC0B0;
+font-weight: bold;
+font-style: italic;
+font-size: 25px;
+border-radius: 5px;
+border: 2px solid black;
+
+}
+
+.smallheader6{
+text-align: center;
+font-family: Times ;
+background-color:  #F4E0A9;
+color: #1FC0B0;
+font-weight: bold;
+font-style: italic;
+font-size: 25px;
+border-radius: 5px;
+border: 2px solid black;
+
+}
+
+.detailP2 {
+	font-weight: bold;
+	color: #AB0A85;
+	font-family: "Tahoma";
+	text-align: center;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #DFDDDB;
+	border-radius: 5px;
+	border: 3px solid black;
+}
+
+.detailP3 {
+	font-weight: bold;
+	color: #AB0A85;
+	font-family: "Tahoma";
+	text-align: center;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #DFDDDB;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+.detailP4 {
+	font-weight: bold;
+	color: #F2861A;
+	font-family: "Tahoma";
+	text-align: center;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #FBEAD1;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+.detailP5 {
+	font-weight: bold;
+	color: #F2861A;
+	font-family: "Tahoma";
+	text-align: center;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #F4E0A9;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+
+
+
+
+
+}
+
+
